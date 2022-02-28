@@ -1,5 +1,6 @@
 # ARIMA and LSTM Time Series Models for Google Trends
 ### Overview
+Arimax 
 This project sought to compare Autoregressive Integrated Moving Average (ARIMA) and Long Short-Term Memory (LSTM) models for various time series data. I created generalized functions that could quickly test, iterate, and optimize ARIMA and LSTM models for a given time series input. The general models were used to forecast various trends, including:
 - S&P 500 historical data
 - "LeBron James" Google Trends
